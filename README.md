@@ -20,7 +20,7 @@ By using this Docker Compose setup, you can run MeshSense easily on a host syste
    git clone https://github.com/DN9KGB/MeshSense-Docker.git
    cd MeshSense-Docker
    ```
-2. Copy and edit the .env file if needed (set ports, volumes, network settings)
+2. Copy and edit the .env file if needed (set address, access key and network settings).
 
 3. Launch the services:
    ```bash
