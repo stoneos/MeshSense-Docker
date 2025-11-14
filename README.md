@@ -24,7 +24,7 @@ By using this Docker Compose setup, you can run MeshSense easily on a host syste
 
 3. Launch the services:
    ```bash
-   docker-compose up -d
+   docker compose up -d
    ```
 
 4. Access the MeshSense UI (via the port defined in your .env or docker-compose.yaml)
